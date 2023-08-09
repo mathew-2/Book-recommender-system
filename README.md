@@ -3,6 +3,8 @@
 
 This is a Book recommendor system that uses a collabrative-filter based learning system to suggest familiar books based on user input 
 
+## The concept
+
 This project is in itself two parts.
 The first part is the home page where the top 50 books having top ratings and are read by many people are displayed for the user to review
 
