@@ -75,7 +75,7 @@ Here are some potential improvements to enhance the recommender system:
 - **Incorporate More Features**: Including additional features like user demographics, reading habits, etc., can improve recommendations.
 - **Hybrid Approach**: Combining collaborative filtering with content-based filtering to leverage both user interaction data and book metadata.
 - **Optimization**: Improving the efficiency of data processing and similarity calculations.
-- **User Interface****: Enhancing the Flask app interface for a better user experience.
+- **User Interface**: Enhancing the Flask app interface for a better user experience.
 
 Feel free to fork the repository and submit pull requests for any improvements or additional features.
 
